@@ -1,6 +1,6 @@
 pandas
-langextract
 pdfplumber
+openpyxl
 python-dotenv
 google-cloud-storage
 requests
