@@ -1,0 +1,7 @@
+pandas
+langextract
+pdfplumber
+python-dotenv
+google-cloud-storage
+requests
+beautifulsoup4
